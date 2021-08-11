@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t masonchase/docker-dind-dc:19 .
+docker build -f ubuntu.Dockerfile -t azihub/docker-dind-dc:19 .

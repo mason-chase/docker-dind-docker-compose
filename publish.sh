@@ -1,2 +1,2 @@
 #!/bin/bash
-docker push masonchase/docker-dind-dc:19
+docker push azihub/docker-dind-dc:19
